@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/layout/notification_template_icon_group.xml"
+    }
+]

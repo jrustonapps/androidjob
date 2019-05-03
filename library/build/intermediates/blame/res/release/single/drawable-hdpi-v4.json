@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/jakeruston/Desktop/android-job/library/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/jakeruston/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57fa4a699b77be27b0b1b281c13c73f5/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

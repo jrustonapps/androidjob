@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+	package
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:1:1-63:12
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:10:5-61:19
+	tools:ignore
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:10:18-44
+service#com.evernote.android.job.v21.PlatformJobService
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:12:9-15:71
+	android:exported
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:13:13-75
+service#com.evernote.android.job.v14.PlatformAlarmService
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:17:9-20:71
+	android:exported
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:19:13-37
+	android:permission
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:18:13-77
+service#com.evernote.android.job.v14.PlatformAlarmServiceExact
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:22:9-24:39
+	android:exported
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:23:13-82
+receiver#com.evernote.android.job.v14.PlatformAlarmReceiver
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:27:13-78
+intent-filter#action:name:com.evernote.android.job.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:29:13-33:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:31:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:32:25-75
+receiver#com.evernote.android.job.JobBootReceiver
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:36:9-45:20
+	android:exported
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:37:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:39:13-44:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:40:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:41:17-81
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:41:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:42:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:43:17-83
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:43:25-81
+service#com.evernote.android.job.gcm.PlatformGcmService
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:47:9-55:19
+	android:enabled
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:49:13-36
+	android:exported
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:51:13-93
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:48:13-75
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:52:13-54:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:53:17-86
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:53:25-84
+service#com.evernote.android.job.JobRescheduleService
+ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:57:9-60:71
+	android:exported
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:59:13-37
+	android:permission
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:60:13-69
+	android:name
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml:58:13-73
+uses-sdk
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+		ADDED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/jakeruston/Desktop/androidjob/library/src/main/AndroidManifest.xml
